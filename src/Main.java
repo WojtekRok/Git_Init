@@ -13,6 +13,6 @@ public class Main {
         
          System.out.println("Edycja przez współpracownika!");
          // konflikt rozwiązany
-
+        System.out.println("nowa funkcjonalność projektu");
     }
 }
