@@ -1,0 +1,7 @@
+# ingoruje wybrane pliki lub katalogi
+
+# ignoruj plik: git.iml
+git.iml
+
+# ingoruj katalog .idea
+.idea/
